@@ -1,0 +1,15 @@
+/Users/josephdelorenzo/VS Studio Projects/FileIO_Demo/FileIO_Demo/obj/Debug/net6.0/FileIO_Demo.csproj.AssemblyReference.cache
+/Users/josephdelorenzo/VS Studio Projects/FileIO_Demo/FileIO_Demo/obj/Debug/net6.0/FileIO_Demo.GeneratedMSBuildEditorConfig.editorconfig
+/Users/josephdelorenzo/VS Studio Projects/FileIO_Demo/FileIO_Demo/obj/Debug/net6.0/FileIO_Demo.AssemblyInfoInputs.cache
+/Users/josephdelorenzo/VS Studio Projects/FileIO_Demo/FileIO_Demo/obj/Debug/net6.0/FileIO_Demo.AssemblyInfo.cs
+/Users/josephdelorenzo/VS Studio Projects/FileIO_Demo/FileIO_Demo/obj/Debug/net6.0/FileIO_Demo.csproj.CoreCompileInputs.cache
+/Users/josephdelorenzo/VS Studio Projects/FileIO_Demo/FileIO_Demo/bin/Debug/net6.0/FileIO_Demo
+/Users/josephdelorenzo/VS Studio Projects/FileIO_Demo/FileIO_Demo/bin/Debug/net6.0/FileIO_Demo.deps.json
+/Users/josephdelorenzo/VS Studio Projects/FileIO_Demo/FileIO_Demo/bin/Debug/net6.0/FileIO_Demo.runtimeconfig.json
+/Users/josephdelorenzo/VS Studio Projects/FileIO_Demo/FileIO_Demo/bin/Debug/net6.0/FileIO_Demo.dll
+/Users/josephdelorenzo/VS Studio Projects/FileIO_Demo/FileIO_Demo/bin/Debug/net6.0/FileIO_Demo.pdb
+/Users/josephdelorenzo/VS Studio Projects/FileIO_Demo/FileIO_Demo/obj/Debug/net6.0/FileIO_Demo.dll
+/Users/josephdelorenzo/VS Studio Projects/FileIO_Demo/FileIO_Demo/obj/Debug/net6.0/refint/FileIO_Demo.dll
+/Users/josephdelorenzo/VS Studio Projects/FileIO_Demo/FileIO_Demo/obj/Debug/net6.0/FileIO_Demo.pdb
+/Users/josephdelorenzo/VS Studio Projects/FileIO_Demo/FileIO_Demo/obj/Debug/net6.0/FileIO_Demo.genruntimeconfig.cache
+/Users/josephdelorenzo/VS Studio Projects/FileIO_Demo/FileIO_Demo/obj/Debug/net6.0/ref/FileIO_Demo.dll
